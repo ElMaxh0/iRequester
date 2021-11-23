@@ -9,6 +9,7 @@ headers={
     'Accept': '*/*',
     'User-Agent':'request',
 }
+#Substitua url pelo endereço desejado
 destino = "URL"
 i = 1
 while (i <= 500):
